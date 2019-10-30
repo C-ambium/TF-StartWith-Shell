@@ -1,0 +1,5 @@
+7ea0a38 display copyright
+7dc0c0b Add file header
+4a900e7 Add build time
+8e0cf77 Edit gitignore
+52d933d Initial commit
