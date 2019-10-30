@@ -1,5 +1,3 @@
 # Ignore folders .exe & .dll
-/bin
-/src
 *.exe
 *.dll
