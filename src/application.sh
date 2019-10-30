@@ -1,4 +1,4 @@
-### application.bat - 201x - Colin Cerveaux ###
+### application.bat - 2019 - Colin Cerveaux  Cedrick Pennec###
 version = "2"
 build_hour = "11H00"
 
